@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ConsoleApp3", "ConsoleApp3.vbproj", "{7ED561F2-8FAC-4405-B5D8-558FEEF19AAE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7ED561F2-8FAC-4405-B5D8-558FEEF19AAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7ED561F2-8FAC-4405-B5D8-558FEEF19AAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7ED561F2-8FAC-4405-B5D8-558FEEF19AAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7ED561F2-8FAC-4405-B5D8-558FEEF19AAE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {38CE846A-E5D1-47AD-86A2-4A8F1530B463}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://desktop-s7htb89/tfs/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = ConsoleApp3.vbproj
+		SccLocalPath1 = .
+	EndGlobalSection
+EndGlobal
